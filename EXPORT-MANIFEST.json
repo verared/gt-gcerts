@@ -1,11 +1,11 @@
 {
   "schema": "gerarion-export-manifest/1",
   "module": "gt-gcerts",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "maturity": "experimental",
   "source_repo": "verared/gerarion",
-  "source_tag": "v3.3.0",
-  "source_commit": "7d4bf95f29956888f6f19590ae2b024125828d12",
+  "source_tag": "v3.4.0",
+  "source_commit": "277f99118e23388fd84afecbd47a4f92805528e5",
   "dependencies": {
     "gt-core": ">=3.2.0,<4.0.0",
     "gt-gst": ">=3.2.0,<4.0.0"
@@ -15,9 +15,9 @@
     "LICENSES/CC-BY-4.0.txt": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
     "LICENSES/CC0-1.0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
     "NOTICE": "6af3a8bb6fe83f1b2d2f3d76528ab1f2b8e56da842c1de81673385821513e835",
-    "README.es.md": "79316f3a3d4c477cf7420d1fe097171319c321d3d93e660eaaa5e51785fc68ad",
-    "README.md": "d05c0d93f5a13ded66e77b063a0218dcf320ed502c007914d8bf627615426f26",
-    "REUSE.toml": "da72069f2399f79809b1c7b1f37dd37619452e4be97a7ea79410efc4d6281db5",
+    "README.es.md": "7681a085cceb56d1554dc1ec792146eee34085c11f6a94917d8a69577d9457cb",
+    "README.md": "58ae064107144cc1b27848604c56f9cf27931e1510c23a1d5c03165d98c7c8f3",
+    "REUSE.toml": "bf155a827c27c26778f3178d0840dbbcc54e06637e9a0ca2d19aa12aaac734cf",
     "docs/specs/GCERTS.en.md": "8af62253e92f51dcc4fce92279386b802607df583e496e63f069c364a1230ea4",
     "docs/specs/GCERTS.es.md": "c2904ba79cc82931285cd0e0154d6bfb9782911dd8ad3319dc55ace3cc764894",
     "src/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
